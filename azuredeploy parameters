@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "dnsNamePrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "kubecluster"
     },
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "admin"
     },
     "sshRSAPublicKey": {
       "value": "GEN-SSH-PUB-KEY"
